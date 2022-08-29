@@ -1,0 +1,15 @@
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\bin\Debug\net6.0\Façade_Pattern_HandsOn.exe
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\bin\Debug\net6.0\Façade_Pattern_HandsOn.deps.json
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\bin\Debug\net6.0\Façade_Pattern_HandsOn.runtimeconfig.json
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\bin\Debug\net6.0\Façade_Pattern_HandsOn.dll
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\bin\Debug\net6.0\ref\Façade_Pattern_HandsOn.dll
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\bin\Debug\net6.0\Façade_Pattern_HandsOn.pdb
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\obj\Debug\net6.0\Façade_Pattern_HandsOn.csproj.AssemblyReference.cache
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\obj\Debug\net6.0\Façade_Pattern_HandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\obj\Debug\net6.0\Façade_Pattern_HandsOn.AssemblyInfoInputs.cache
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\obj\Debug\net6.0\Façade_Pattern_HandsOn.AssemblyInfo.cs
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\obj\Debug\net6.0\Façade_Pattern_HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\obj\Debug\net6.0\Façade_Pattern_HandsOn.dll
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\obj\Debug\net6.0\ref\Façade_Pattern_HandsOn.dll
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\obj\Debug\net6.0\Façade_Pattern_HandsOn.pdb
+C:\Users\2064588\source\repos\Façade_Pattern_HandsOn\Façade_Pattern_HandsOn\obj\Debug\net6.0\Façade_Pattern_HandsOn.genruntimeconfig.cache
